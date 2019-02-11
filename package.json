@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jgimbel/react-leaflet-div-icon.git"
+    "url": "git+https://github.com/renanbandeira/react-leaflet-div-icon.git"
   },
   "author": "Joel Gimbel <jgimbel@live.com>",
   "license": "ISC",
